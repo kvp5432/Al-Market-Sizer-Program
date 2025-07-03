@@ -1,0 +1,8 @@
+streamlit
+requests
+beautifulsoup4
+newspaper3k
+huggingface_hub
+openai
+pandas
+
